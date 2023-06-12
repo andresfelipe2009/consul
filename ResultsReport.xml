@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<mm_report>
+	<mm_reportname>	ResultsReport.xml</mm_reportname>
+	<mm_reportdate>Mon Jun 12 15:04:17 2023</mm_reportdate>
+	<mm_reportlocation>C:\\Users\Usuario\Desktop\consultorio de daniela\</mm_reportlocation>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\Usuario\Desktop\consultorio de daniela\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\Usuario\Desktop\consultorio de daniela\index.html</mm_file>
+		<mm_linenumber>1</mm_linenumber>
+		<mm_description><![CDATA[expected comment or CDATA section[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\Usuario\Desktop\consultorio de daniela\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\Usuario\Desktop\consultorio de daniela\index.html</mm_file>
+		<mm_linenumber>3</mm_linenumber>
+		<mm_description><![CDATA[element stack is empty[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+</mm_report>
